@@ -1,6 +1,11 @@
 # 💫 About Me:
 🔭 I’m currently working on Front end Development<br>🤝 let's collaborate on hackathons<br>🌱 I’m currently learning Next.js <br>💬 Ask me about Social startups<br>🎷 Fun fact I play the saxophone
 
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-gallant-a47b40207/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xJordang) 
