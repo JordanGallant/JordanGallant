@@ -26,21 +26,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--START_SECTION:waka-->
-name: Waka Readme
+![image](https://res.cloudinary.com/practicaldev/image/fetch/s--oTCqhU8T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/kfyk4ne0vb187mhh1o95.jpg)
 
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+<!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
