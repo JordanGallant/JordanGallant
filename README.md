@@ -1,4 +1,4 @@
-#![](https://komarev.com/ghpvc/?username=JordanGallant)
+![](https://komarev.com/ghpvc/?username=JordanGallant)
 
 
 # 💫 About Me:
