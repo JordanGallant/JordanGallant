@@ -1,3 +1,6 @@
+#![](https://komarev.com/ghpvc/?username=JordanGallant)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Front end Development<br>🤝 let's collaborate on hackathons<br>🌱 I’m currently learning Next.js <br>💬 Ask me about Social startups<br>🎷 Fun fact I play the saxophone
 
