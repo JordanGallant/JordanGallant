@@ -1,4 +1,4 @@
-![](https://gitwar.herokuapp.com/badge?username=JordanGallant&style=flat-square)
+![](https://komarev.com/ghpvc/?username=JordanGallant&style=flat-square)
 
 
 # 💫 About Me:
