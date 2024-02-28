@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front end Development<br>🤝 let's collaborate on hackathons<br>🌱 I’m currently learning Next.js <br>💬 Ask me about Social startups<br>🎷 Fun fact I play the saxophone
+🔭 Recently Moved to the Netherlands <br>🤝 I Love hackathons <br>🌱 I’m currently learning Solidity <br>💬 Really want to start my own Start up one day<br>🎷 Fun fact I play the saxophone
 
 
 ## 🌐 Socials:
