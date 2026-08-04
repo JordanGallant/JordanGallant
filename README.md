@@ -83,7 +83,6 @@ source code they didn't mean to expose. 🕵️
 | 📊 **[SAM](https://www.samvc.ai/)** | Turns pitch decks into scored, structured investment assessments |
 | 🗣️ **[Max](https://www.gotomax.ai/)** | AI sales assistant that logs meeting notes straight into the CRM |
 | 🔥 **[Firestarter](https://www.fire-starter.ai/)** | Unifies CRM + marketing + analytics and executes revenue actions |
-| ⚡ **[Envio](https://envio.dev/)** | Ultra-fast blockchain indexing → production APIs |
 | 🎛️ **[Breakglass](https://breakglass.dance/)** | Amsterdam techno & UK garage events collective (cofounder) |
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
@@ -146,7 +145,5 @@ I break things with permission and write it up. A few favourites:
 [![Instagram](https://img.shields.io/badge/Instagram-%40breakglass.nl-39FF14?style=flat-square&logo=instagram&logoColor=39FF14&labelColor=000000)](https://instagram.com/breakglass.nl)
 
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:0d3b1e,100:000000&height=120&section=footer&text=in%20case%20of%20rave%2C%20break%20glass&fontColor=eafff0&fontSize=20&fontAlignY=70" alt="footer" />
 
 </div>
