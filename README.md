@@ -1,6 +1,5 @@
 # 💫 About Me:
 I Hack Startups for fun
-I Build 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JordanGallant&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JordanGallant&theme=dark&hide_border=false)<br/>
