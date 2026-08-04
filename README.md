@@ -6,7 +6,7 @@
 <!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 
 <a href="https://jgsleepy.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=39FF14&center=true&vCenter=true&width=720&lines=Full-stack+%26+AI+builder+in+Amsterdam;Founder+%40+Lerai+%E2%80%94+AI+venture+studio;Shipping+startups+from+idea+to+prod;Breaking+things+on+purpose+%28security+research%29" alt="what I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=39FF14&center=true&vCenter=true&width=720&lines=Full-stack+%26+AI+builder+in+Amsterdam;Shipping+startups+from+idea+to+prod;AI+%C2%B7+blockchain+%C2%B7+security;Breaking+things+on+purpose+%28security+research%29" alt="what I do" />
 </a>
 
 <br/>
@@ -15,7 +15,6 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-jgsleepy.xyz-39FF14?style=for-the-badge&labelColor=000000)](https://jgsleepy.xyz)
 [![Profile Views](https://komarev.com/ghpvc/?username=JordanGallant&label=VISITORS&color=39FF14&style=for-the-badge&labelColor=000000)](https://github.com/JordanGallant)
-[![Lerai](https://img.shields.io/badge/STUDIO-lerai.ai-39FF14?style=for-the-badge&labelColor=000000)](https://www.lerai.ai/)
 
 </div>
 
@@ -38,7 +37,6 @@ const jordan = {
   role:       "Full-stack & AI engineer / founder",
   based:      "Amsterdam, NL 🇳🇱",
   building:   ["AI-native products", "web3 infra", "the odd 4am side project"],
-  studio:     "Lerai — co-building AI startups",
   security:   "LFI → root, IDOR, and other responsibly-disclosed rabbit holes",
   motto:      "idea → prod, fast",
 };
@@ -78,7 +76,6 @@ source code they didn't mean to expose. 🕵️
 
 | Venture | What it does |
 | :-- | :-- |
-| 🧠 **[Lerai](https://www.lerai.ai/)** | AI product studio co-building AI-native startups |
 | 📊 **[SAM](https://www.samvc.ai/)** | Turns pitch decks into scored, structured investment assessments |
 | 🗣️ **[Max](https://www.gotomax.ai/)** | AI sales assistant that logs meeting notes straight into the CRM |
 | 🔥 **[Firestarter](https://www.fire-starter.ai/)** | Unifies CRM + marketing + analytics and executes revenue actions |
@@ -140,7 +137,6 @@ I break things with permission and write it up. A few favourites:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Website-jgsleepy.xyz-39FF14?style=flat-square&logo=vercel&logoColor=39FF14&labelColor=000000)](https://jgsleepy.xyz)
-[![Lerai](https://img.shields.io/badge/Studio-lerai.ai-39FF14?style=flat-square&logo=googlechrome&logoColor=39FF14&labelColor=000000)](https://www.lerai.ai/)
 [![GitHub](https://img.shields.io/badge/GitHub-JordanGallant-39FF14?style=flat-square&logo=github&logoColor=39FF14&labelColor=000000)](https://github.com/JordanGallant)
 
 <br/>
