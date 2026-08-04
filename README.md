@@ -6,7 +6,7 @@
 <!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 
 <a href="https://jgsleepy.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=39FF14&center=true&vCenter=true&width=720&lines=Full-stack+%26+AI+builder+in+Amsterdam;Founder+%40+Lerai+%E2%80%94+AI+venture+studio;Shipping+startups+from+idea+to+prod;Breaking+things+on+purpose+%28security+research%29;Techno+%26+UK+garage+by+night+%F0%9F%8E%9B%EF%B8%8F" alt="what I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=39FF14&center=true&vCenter=true&width=720&lines=Full-stack+%26+AI+builder+in+Amsterdam;Founder+%40+Lerai+%E2%80%94+AI+venture+studio;Shipping+startups+from+idea+to+prod;Breaking+things+on+purpose+%28security+research%29" alt="what I do" />
 </a>
 
 <br/>
@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-jgsleepy.xyz-39FF14?style=for-the-badge&labelColor=000000)](https://jgsleepy.xyz)
 [![Profile Views](https://komarev.com/ghpvc/?username=JordanGallant&label=VISITORS&color=39FF14&style=for-the-badge&labelColor=000000)](https://github.com/JordanGallant)
-[![Instagram](https://img.shields.io/badge/DJ-%40breakglass.nl-39FF14?style=for-the-badge&labelColor=000000&logo=instagram&logoColor=39FF14)](https://instagram.com/breakglass.nl)
+[![Lerai](https://img.shields.io/badge/STUDIO-lerai.ai-39FF14?style=for-the-badge&labelColor=000000)](https://www.lerai.ai/)
 
 </div>
 
@@ -40,8 +40,7 @@ const jordan = {
   building:   ["AI-native products", "web3 infra", "the odd 4am side project"],
   studio:     "Lerai — co-building AI startups",
   security:   "LFI → root, IDOR, and other responsibly-disclosed rabbit holes",
-  offline:    "spinning techno & UK garage with Breakglass",
-  motto:      "in case of rave, break glass",
+  motto:      "idea → prod, fast",
 };
 ```
 
@@ -83,7 +82,8 @@ source code they didn't mean to expose. 🕵️
 | 📊 **[SAM](https://www.samvc.ai/)** | Turns pitch decks into scored, structured investment assessments |
 | 🗣️ **[Max](https://www.gotomax.ai/)** | AI sales assistant that logs meeting notes straight into the CRM |
 | 🔥 **[Firestarter](https://www.fire-starter.ai/)** | Unifies CRM + marketing + analytics and executes revenue actions |
-| 🎛️ **[Breakglass](https://breakglass.dance/)** | Amsterdam techno & UK garage events collective (cofounder) |
+| ⚡ **[Envio](https://envio.dev/)** | Ultra-fast blockchain indexing → production APIs |
+| 🏛️ **[Tendwise](https://tendwise.eu/)** | AI that helps public bodies evaluate & award procurement tenders |
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 
@@ -142,8 +142,10 @@ I break things with permission and write it up. A few favourites:
 
 [![Portfolio](https://img.shields.io/badge/Website-jgsleepy.xyz-39FF14?style=flat-square&logo=vercel&logoColor=39FF14&labelColor=000000)](https://jgsleepy.xyz)
 [![Lerai](https://img.shields.io/badge/Studio-lerai.ai-39FF14?style=flat-square&logo=googlechrome&logoColor=39FF14&labelColor=000000)](https://www.lerai.ai/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40breakglass.nl-39FF14?style=flat-square&logo=instagram&logoColor=39FF14&labelColor=000000)](https://instagram.com/breakglass.nl)
+[![GitHub](https://img.shields.io/badge/GitHub-JordanGallant-39FF14?style=flat-square&logo=github&logoColor=39FF14&labelColor=000000)](https://github.com/JordanGallant)
 
 <br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:0d3b1e,100:000000&height=120&section=footer&text=let%27s%20build%20something&fontColor=eafff0&fontSize=20&fontAlignY=70" alt="footer" />
 
 </div>
