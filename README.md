@@ -82,7 +82,6 @@ source code they didn't mean to expose. 🕵️
 | 📊 **[SAM](https://www.samvc.ai/)** | Turns pitch decks into scored, structured investment assessments |
 | 🗣️ **[Max](https://www.gotomax.ai/)** | AI sales assistant that logs meeting notes straight into the CRM |
 | 🔥 **[Firestarter](https://www.fire-starter.ai/)** | Unifies CRM + marketing + analytics and executes revenue actions |
-| ⚡ **[Envio](https://envio.dev/)** | Ultra-fast blockchain indexing → production APIs |
 | 🏛️ **[Tendwise](https://tendwise.eu/)** | AI that helps public bodies evaluate & award procurement tenders |
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
